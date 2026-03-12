@@ -1,0 +1,5 @@
+{
+  "name": "SES Turbo Cost",
+  "description": "High-speed email blasting and cost estimation SaaS using AWS SES.",
+  "requestFramePermissions": []
+}
